@@ -6,8 +6,6 @@
 Riyadh, Saudi Arabia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-hassan-tariq-2ba409224/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-black?logo=github)](#)
-[![Visitors](https://komarev.com/ghpvc/?username=BlazedAhmad)]()
 
 </div>
 
@@ -18,7 +16,7 @@ Riyadh, Saudi Arabia
 - Build at the intersection of **AI**, **Blockchain**, **Web Tech**, and **immersive experiences**.  
 - Former **Game/Metaverse** lead; experienced with **Unity** / **Unreal**.
 
-> Current: **Head of Development, droppGroup**. Previously **Game Dev Lead (Infinite Reality)**.:contentReference[oaicite:1]{index=1}
+> Current: **Head of Development, droppGroup**. Previously **Game Dev Lead (Infinite Reality)**.
 
 ---
 
@@ -44,10 +42,4 @@ Riyadh, Saudi Arabia
 
 ---
 
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=BlazedAhmad&show_icons=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazedAhmad&layout=compact)
-
-</div>
 
