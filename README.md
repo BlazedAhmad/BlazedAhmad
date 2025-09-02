@@ -36,9 +36,9 @@ Riyadh, Saudi Arabia
 ---
 
 ### 🎓 & 🎖
-- **IU International University of Applied Sciences** — Applied AI (BSc):contentReference[oaicite:2]{index=2}  
-- **NUST** — Artificial Intelligence (BSc, coursework):contentReference[oaicite:3]{index=3}  
-- **Certified IT Professional (PSEB)** · **Duolingo English Test**:contentReference[oaicite:4]{index=4}
+- **IU International University of Applied Sciences** — Applied AI (BSc)
+- **NUST** — Artificial Intelligence (BSc, coursework) 
+- **Certified IT Professional (PSEB)** · **Duolingo English Test**
 
 ---
 
